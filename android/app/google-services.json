@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667753863692",
+    "project_id": "zappapp-f4d6f",
+    "storage_bucket": "zappapp-f4d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667753863692:android:ac8a4fd996754900f3ac29",
+        "android_client_info": {
+          "package_name": "com.example.untitled23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667753863692-b3p7ons6qo95fehrk01vtpqturnec281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB810vCz7MejcVIIzG2Ws5GDiHYZE1vf5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667753863692-b3p7ons6qo95fehrk01vtpqturnec281.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
